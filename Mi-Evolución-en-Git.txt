@@ -5,4 +5,4 @@ que logre el primer paso me estoy animando a más.
 
 Hoy Domingo 23 de Agosto a las 22:17 hrs termine de hacer un recorrido de
 repaso de todo el curso desde el video nro. 7 hasta el 11 entendiendo los
-mecanísmos de uso sus comandos y el fin para el cuál está hecho de Git.
+mecanísmos de uso sus comandos y el fin para el cuál está hecho Git.
